@@ -1,0 +1,21 @@
+age=20    
+print(type(age))
+marks=9.05
+print(type(marks))
+name="deepa"
+print(type(name))
+passTrue=True
+print(type(passTrue))
+list1=[1,2,3,4,5,6]
+print(type(list1))
+tuple1=(1,2,3,6,5,4)
+print(type(tuple1))
+obj1=dict({
+    "name": "deepa",
+    "city":"bangalore",
+    "age":20
+})
+print(type(obj1))
+set1={13,2,4,5,6,7,8,5,4}
+print(type(set1))
+print(set1)
